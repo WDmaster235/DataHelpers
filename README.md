@@ -1,6 +1,6 @@
 # Welcome to **DataHelpers** 🚀
 
-> *please visit the end of the page for folder-creating/editing rules*
+> *please visit the end of the page for program conventions.*
 
 
 **DataHelpers** is here to solve the tricky, everyday problems that many programmers face while using C#. 
@@ -103,3 +103,15 @@ We love code that works, and testing is key!
 3. Add a meaningful title and description to your PR and submit it for review.
 
 Once your pull request is approved and merged, your class will be a part of the **DataHelpers** library! 🎉
+## Program Conventions 🤝👨‍💻:
+   - ### Changing or adding code to an existing class in the library:
+     - If you want to add a function, a parameter, a constructor, etc.
+       Just add the code to the existing C# file and create a pull request.
+     - Note that if you delete any existing code or change it in any way, you will have to explain why it benefits
+       the existing code and we will determine whether to apply those changes or not.
+   - ### Adding a new class into the library:
+     - In the **DataHelpers.csproj**, create a new folder with the same name as the class you want to create,
+       in there, put all the items you created for your own created class with the actual class itself.
+     - If you want to add an exception with a special name for your class, add that Exception class inside **DataHelpersException.cs**.
+   - ### All added items need to have proper XML documentation and [comments describing the code] (if needed)
+### **Pull requests that will not meet the mentioned conditions WILL NOT be accepted into the library**
