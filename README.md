@@ -8,13 +8,19 @@
 - To use a specific class from the library, go to the top of the code and write **using.ClassName**.
   For example:
   ```csharp
-     using DataHelpers.CircularStack
+   using System;
+   using DataHelpers.CircularStack;
 
    namespace YourClass
    {
        public class Class
        {
-
+          int length = 10;
+          var circularStack = new CircularStack<int>(length);
+          circularStack.Push(30);
+          int temp1 = circularStack.Pop();
+          int temp2 = circularStack.Peek();
+          Console.WriteLine(Math.Max(temp1, temp2));
        }
    }
   ```
