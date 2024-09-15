@@ -54,23 +54,6 @@ Once you’ve forked the repo:
        // Your custom logic here
    }
    ```
-   ### Step 4: Register the Class
-
-1. If your class requires initialization or registration, make sure to add the necessary logic in the library’s setup code (usually `Program.cs` or an appropriate initializer file).
-
-   Example:
-
-   ```csharp
-   public class DataHelpersInitializer
-   {
-       public static void RegisterHelpers()
-       {
-           // Register your new helper or data structure here
-           MyCustomStructure.Register();
-       }
-   }
-2. Update any relevant namespaces or references for your new class.
-
 ### Step 5: Add Unit Tests 🧪
 
 We love code that works, and testing is key!
