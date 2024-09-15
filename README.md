@@ -1,6 +1,6 @@
 # Welcome to **DataHelpers** 🚀
 
-<small><i><!-- please visit the end of the page for folder-crating/editing rules --></i></small>
+> *please visit the end of the page for folder-crating/editing rules*
 
 
 **DataHelpers** is here to solve the tricky, everyday problems that many programmers face while using C#. 
