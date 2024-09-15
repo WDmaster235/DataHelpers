@@ -54,7 +54,7 @@ Once you’ve forked the repo:
        // Your custom logic here
    }
    ```
-### Step 5: Add Unit Tests 🧪
+### Step 4: Add Unit Tests 🧪
 
 We love code that works, and testing is key!
 
@@ -80,7 +80,7 @@ We love code that works, and testing is key!
        }
    }
    ```
-### Step 6: Commit and Push Your Changes
+### Step 5: Commit and Push Your Changes
 
 1. Once you've added the class and written the tests, commit your changes:
 
@@ -93,7 +93,7 @@ We love code that works, and testing is key!
    git push origin main
    ```
 
-### Step 7: Create a Pull Request (PR) 📝
+### Step 6: Create a Pull Request (PR) 📝
 
 1. Go back to the **DataHelpers** GitHub page.
 2. You’ll see an option to create a pull request. Click on it.
