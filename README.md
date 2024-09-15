@@ -1,5 +1,5 @@
 # Welcome to **DataHelpers** 🚀
-
+# *please visit the end of the page for folder-crating/editing rules*
 **DataHelpers** is here to solve the tricky, everyday problems that many programmers face while using C#. 
 
 You might often find yourself spending hours on tasks that don’t have simple solutions, such as managing complex collections, navigating through specific algorithms, or writing custom utilities to improve performance. That’s where **DataHelpers** comes in! 💡
