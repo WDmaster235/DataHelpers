@@ -38,3 +38,82 @@ Once you’ve forked the repo:
 
    ```bash
    git clone https://github.com/yourusername/DataHelpers.git
+   ```
+### Step 3: Create a New Class 🛠️
+
+1. Inside the `src` folder, create a new class file for your data structure or helper function. Name it something meaningful, for example: `MyCustomStructure.cs`.
+
+2. Add your class definition in the file. Make sure your class is well-documented using XML comments for easy integration into the library's documentation.
+
+   ```csharp
+   /// <summary>
+   /// A custom data structure that solves a specific problem.
+   /// </summary>
+   public class MyCustomStructure
+   {
+       // Your custom logic here
+   }
+   ```
+   ### Step 4: Register the Class
+
+1. If your class requires initialization or registration, make sure to add the necessary logic in the library’s setup code (usually `Program.cs` or an appropriate initializer file).
+
+   Example:
+
+   ```csharp
+   public class DataHelpersInitializer
+   {
+       public static void RegisterHelpers()
+       {
+           // Register your new helper or data structure here
+           MyCustomStructure.Register();
+       }
+   }
+2. Update any relevant namespaces or references for your new class.
+
+### Step 5: Add Unit Tests 🧪
+
+We love code that works, and testing is key!
+
+1. Go to the `Tests` folder and create a test class for your newly added structure or helper.
+2. Write unit tests to ensure your class behaves as expected. Use a testing framework like xUnit, NUnit, or MSTest.
+
+   Example:
+
+   ```csharp
+   public class MyCustomStructureTests
+   {
+       [Fact]
+       public void Test_MyCustomStructure_Behavior()
+       {
+           // Arrange
+           var structure = new MyCustomStructure();
+
+           // Act
+           var result = structure.SomeMethod();
+
+           // Assert
+           Assert.Equal(expected, result);
+       }
+   }
+   ```
+### Step 6: Commit and Push Your Changes
+
+1. Once you've added the class and written the tests, commit your changes:
+
+   ```bash
+   git add .
+   git commit -m "Added MyCustomStructure to the DataHelpers library"
+   ```
+2. Push your changes to your GitHub fork:
+   ```bash
+   git push origin main
+   ```
+
+### Step 7: Create a Pull Request (PR) 📝
+
+1. Go back to the **DataHelpers** GitHub page.
+2. You’ll see an option to create a pull request. Click on it.
+3. Add a meaningful title and description to your PR and submit it for review.
+
+Once your pull request is approved and merged, your class will be a part of the **DataHelpers** library! 🎉
