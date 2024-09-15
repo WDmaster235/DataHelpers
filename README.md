@@ -1,5 +1,7 @@
 # Welcome to **DataHelpers** 🚀
-<span style="color: gray; font-size: smaller;">please visit the end of the page for folder-crating/editing rules</span>
+
+<small><i><!-- please visit the end of the page for folder-crating/editing rules --></i></small>
+
 
 **DataHelpers** is here to solve the tricky, everyday problems that many programmers face while using C#. 
 
