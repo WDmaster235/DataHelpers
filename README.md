@@ -114,4 +114,4 @@ Once your pull request is approved and merged, your class will be a part of the 
        in there, put all the items you created for your own created class with the actual class itself.
      - If you want to add an exception with a special name for your class, add that Exception class inside **DataHelpersException.cs**.
    - ### All added items need to have proper XML documentation [and comments describing the code] (if needed)
-## **Pull requests that will not meet the mentioned conditions WILL NOT be accepted into the library**
+### **Pull requests that will not meet the mentioned conditions WILL NOT be accepted into the library**
