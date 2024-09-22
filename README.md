@@ -85,27 +85,9 @@ Once you’ve forked the repo:
 We love code that works, and testing is key!
 
 1. Go to the `Tests` folder and create a test class for your newly added structure or helper.
-2. Write unit tests to ensure your class behaves as expected. Use a testing framework like xUnit, NUnit, or MSTest.
-
-   Example:
-
-   ```csharp
-   public class MyCustomStructureTests
-   {
-       [Fact]
-       public void Test_MyCustomStructure_Behavior()
-       {
-           // Arrange
-           var structure = new MyCustomStructure();
-
-           // Act
-           var result = structure.SomeMethod();
-
-           // Assert
-           Assert.Equal(expected, result);
-       }
-   }
-   ```
+2. Just write a simple main program that uses all the functions and constructors your unique class has. 
+   For example, see the -- "How to use" -- code above.
+   
 ### Step 5: Commit and Push Your Changes
 
 1. Once you've added the class and written the tests, commit your changes:
