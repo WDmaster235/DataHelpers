@@ -69,7 +69,7 @@ Once you’ve forked the repo:
 
 1. Inside the `src` folder, create a new class file for your data structure or helper function. Name it something meaningful, for example: `MyCustomStructure.cs`.
 
-2. Add your class definition in the file. Make sure your class is well-documented using XML comments for easy integration into the library's documentation.
+2. Add your class definition to the file. Make sure your class is well-documented using XML comments for easy integration into the library's documentation.
 
    ```csharp
    /// <summary>
@@ -85,7 +85,7 @@ Once you’ve forked the repo:
 We love code that works, and testing is key!
 
 1. Go to the `Tests` folder and create a test class for your newly added structure or helper.
-2. Just write a simple main program that uses all the functions and constructors your unique class has. 
+2. Write a simple main program that uses all the functions and constructors your unique class has. 
    For example, see the -- "How to use" -- code above.
    
 ### Step 5: Commit and Push Your Changes
