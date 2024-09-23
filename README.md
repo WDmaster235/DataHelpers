@@ -5,7 +5,7 @@
 ## DataHelpers - How to use:
 - Using the library is very simple, all you need to do is download it and add it to the project you want to work with the library on,
   right-click that project, and add "DataHelpers" as a reference.
-- To use a specific class from the library, go to the top of the code and write **using.ClassName**.
+- To use a specific class from the library, go to the top of the code and write **using.DataHelpers**.
   For example:
   ```csharp
    using System;
