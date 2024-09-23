@@ -9,7 +9,7 @@
   For example:
   ```csharp
    using System;
-   using DataHelpers.CircularStack;
+   using DataHelpers;
 
    namespace YourClass
    {
