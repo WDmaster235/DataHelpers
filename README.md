@@ -80,28 +80,7 @@ Once you’ve forked the repo:
        // Your custom logic here
    }
    ```
-### Step 4: Add Unit Tests 🧪
-
-We love code that works, and testing is key!
-
-1. Go to the `Tests` folder and create a test class for your newly added structure or helper.
-2. Write a simple main program that uses all the functions and constructors your unique class has. 
-   For example, see the -- "How to use" -- code above.
-   
-### Step 5: Commit and Push Your Changes
-
-1. Once you've added the class and written the tests, commit your changes:
-
-   ```bash
-   git add .
-   git commit -m "Added MyCustomStructure to the DataHelpers library"
-   ```
-2. Push your changes to your GitHub fork:
-   ```bash
-   git push origin main
-   ```
-
-### Step 6: Create a Pull Request (PR) 📝
+### Step 5: Create a Pull Request (PR) 📝
 
 1. Go back to the **DataHelpers** GitHub page.
 2. You’ll see an option to create a pull request. Click on it.
