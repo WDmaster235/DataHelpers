@@ -80,7 +80,7 @@ Once you’ve forked the repo:
        // Your custom logic here
    }
    ```
-### Step 5: Create a Pull Request (PR) 📝
+### Step 4: Create a Pull Request (PR) 📝
 
 1. Go back to the **DataHelpers** GitHub page.
 2. You’ll see an option to create a pull request. Click on it.
