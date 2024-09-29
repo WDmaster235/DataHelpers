@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataHelpers.DataStructures.Snake
+namespace DataHelpers
 {
     /// <summary>
     /// Represents a Snake data structure, which is a collection of nodes connected in sequence.

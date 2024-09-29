@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OWNER\\Documents\\GitHub\\DataHelpers\\DataHelpers\\DataHelpers.csproj": {}
+    "D:\\USER FILES\\Documents\\GitHub\\DataHelpers\\DataHelpers\\DataHelpers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OWNER\\Documents\\GitHub\\DataHelpers\\DataHelpers\\DataHelpers.csproj": {
+    "D:\\USER FILES\\Documents\\GitHub\\DataHelpers\\DataHelpers\\DataHelpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OWNER\\Documents\\GitHub\\DataHelpers\\DataHelpers\\DataHelpers.csproj",
+        "projectUniqueName": "D:\\USER FILES\\Documents\\GitHub\\DataHelpers\\DataHelpers\\DataHelpers.csproj",
         "projectName": "DataHelpers",
-        "projectPath": "C:\\Users\\OWNER\\Documents\\GitHub\\DataHelpers\\DataHelpers\\DataHelpers.csproj",
-        "packagesPath": "C:\\Users\\OWNER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OWNER\\Documents\\GitHub\\DataHelpers\\DataHelpers\\obj\\",
+        "projectPath": "D:\\USER FILES\\Documents\\GitHub\\DataHelpers\\DataHelpers\\DataHelpers.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\USER FILES\\Documents\\GitHub\\DataHelpers\\DataHelpers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\OWNER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
