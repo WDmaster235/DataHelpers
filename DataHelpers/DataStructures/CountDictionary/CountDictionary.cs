@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CountDictionry 
+namespace DataHelpers
 {
     /// <summary>
     /// A specialized dictionary that tracks the number of times a key is added.
