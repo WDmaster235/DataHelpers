@@ -22,3 +22,15 @@ D:\USER FILES\Documents\GitHub\DataHelpers\DataHelpers\obj\Debug\net6.0\DataHelp
 D:\USER FILES\Documents\GitHub\DataHelpers\DataHelpers\obj\Debug\net6.0\refint\DataHelpers.dll
 D:\USER FILES\Documents\GitHub\DataHelpers\DataHelpers\obj\Debug\net6.0\DataHelpers.pdb
 D:\USER FILES\Documents\GitHub\DataHelpers\DataHelpers\obj\Debug\net6.0\ref\DataHelpers.dll
+C:\Users\User\Documents\GitHub\DataHelpers\DataHelpers\bin\Debug\net6.0\DataHelpers.deps.json
+C:\Users\User\Documents\GitHub\DataHelpers\DataHelpers\bin\Debug\net6.0\DataHelpers.dll
+C:\Users\User\Documents\GitHub\DataHelpers\DataHelpers\bin\Debug\net6.0\DataHelpers.pdb
+C:\Users\User\Documents\GitHub\DataHelpers\DataHelpers\obj\Debug\net6.0\DataHelpers.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DataHelpers\DataHelpers\obj\Debug\net6.0\DataHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DataHelpers\DataHelpers\obj\Debug\net6.0\DataHelpers.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DataHelpers\DataHelpers\obj\Debug\net6.0\DataHelpers.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DataHelpers\DataHelpers\obj\Debug\net6.0\DataHelpers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DataHelpers\DataHelpers\obj\Debug\net6.0\DataHelpers.dll
+C:\Users\User\Documents\GitHub\DataHelpers\DataHelpers\obj\Debug\net6.0\refint\DataHelpers.dll
+C:\Users\User\Documents\GitHub\DataHelpers\DataHelpers\obj\Debug\net6.0\DataHelpers.pdb
+C:\Users\User\Documents\GitHub\DataHelpers\DataHelpers\obj\Debug\net6.0\ref\DataHelpers.dll

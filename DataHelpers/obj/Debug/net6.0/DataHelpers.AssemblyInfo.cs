@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataHelpers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e3ce5b2044750eb8f5edbaece58e3ffe7c3915a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataHelpers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataHelpers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
